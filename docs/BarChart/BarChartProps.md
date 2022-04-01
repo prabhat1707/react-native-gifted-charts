@@ -241,10 +241,10 @@ The structure of stackData is-
       stacks:
         [
             {
-                value: 10, color: 'red', onPres: someFunction
+                value: 10, color: 'red', onPress: someFunction
             },
             {
-                value: 20, color: 'blue', marginBottom: 1, onPres: someFunction
+                value: 20, color: 'blue', marginBottom: 1, onPress: someFunction
             },
             ...
         ],
@@ -255,10 +255,10 @@ The structure of stackData is-
       stacks:
         [
             {
-                value: 8, color: 'red', onPres: someFunction
+                value: 8, color: 'red', onPress: someFunction
             },
             {
-                value: 17, color: 'blue', marginBottom: 1, onPres: someFunction
+                value: 17, color: 'blue', marginBottom: 1, onPress: someFunction
             },
             ...
         ],
